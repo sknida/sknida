@@ -42,6 +42,7 @@ I’m passionate about building meaningful digital solutions that empower people
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Symfony](https://img.shields.io/badge/Symfony-333333?logo=symfony&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff)
